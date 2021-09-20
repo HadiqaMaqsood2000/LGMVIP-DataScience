@@ -1,0 +1,35 @@
+Name : HADIQA MAQSOOD
+Task : IRIS FLOWER CLASSIFICATION
+Level : BEGINNER LEVEL 
+BATCH : LGMVIP September-2021
+
+................................
+EXPLANATION OF TASK
+................................
+
+Language: Python
+IDE: Jupyter Notebook
+
+1) Dataset was given and we have to perform analysis on it.
+2) Downloaded the dataset from "https://archive-beta.ics.uci.edu/ml/datasets/iris" in .csv format.
+3) In jupyter notebook, import all necessary libraries first.
+4) Read the dataset to perform analysis.
+4) Named the coloumn.
+5) Created a copy of dataset (.csv file).
+6) Read it back into previous file.
+7) Printed output of dataset.
+
+...............................................
+ANALYSIS
+..............................................
+8) Printed dataset summary.
+9) Checked for any missing values in the dataset.
+10) Printed description of the dataset.
+11) Checking for null values in the dataset.
+12) Imported library to do clustering.
+13) Trained the data.
+14) Clustered dataset into 3 clusters.
+15) Visualized the 3 cluster data using scatterplot.
+16) Visualization the 3 cluster data using scatterplot only on x-axis with labels.
+17) Clustered dataset into 5 clusters.
+18) Visualized the 5 cluster data using scatterplot.
