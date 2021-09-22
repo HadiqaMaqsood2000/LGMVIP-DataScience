@@ -1,0 +1,39 @@
+SUMMARY
+............................................
+
+Name : HADIQA MAQSOOD
+Task : NEXT WORD PREDICTION
+Level: Advance
+Batch: Semptember-2021
+
+..............................................
+
+1) Import all required libraries.
+
+2) Load the downloaded provided dataset
+
+3) Split the dataset into each word in order but without the presence of some special characters.
+
+4) Perform the feature engineering, For this purpose, create a dictionary with each word in the data within the list of unique words as the key, 
+and it’s significant portions as value. 
+
+5) Define a Word length which will represent the number of previous words that will determine our next word. 
+I will define prev words to keep five previous words and their corresponding next words in the list of next words.
+
+6) Create two numpy arrays x for storing the features and y for storing its corresponding label. x and y will iterate if the word is available so that the corresponding position becomes 1
+
+7) Look at a single sequence of words.
+
+8) Build Recurrent Neural network using LSTM model, which is a very powerful RNN.
+
+9) Train the next word prediction model with 20 epochs.
+
+10) Save this model for future use.
+
+11) Look at how our model is behaving based on its accuracy and loss changes while training. 
+
+12) Build a python program or functions to predict the next word using in trained model. 
+
+13) Declare some sequence of quotes that is used as a base for predictions.
+
+14) Finally, use the model to predict the next word.
