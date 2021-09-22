@@ -1,0 +1,26 @@
+SUMMARY
+............................................
+
+Name : HADIQA MAQSOOD
+Task : IMAGE TO PENCIL SKETCH WITH PYTHON
+Level: Intermediate
+Batch: Semptember-2021
+
+.............................................
+
+1) The only library we need for converting an image into a pencil sketch with Python is an OpenCV library in Python.
+Let’s import it to get started with the task.
+
+2) Now the next thing to do is to read the image.
+
+3) After reading the image, we will create a new image by converting the original image to greyscale.
+
+4) Now the next step is to invert the new grayscale image.
+
+5) In next step in the process is to blur the image by using the Gaussian Function in OpenCV.
+
+6) After that invert the blurred image. 
+
+7) Then the final step is to convert the image into a pencil sketch.
+
+8) In last, have a look at both the original image & the pencil sketch image.
