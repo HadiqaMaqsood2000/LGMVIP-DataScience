@@ -1,0 +1,34 @@
+SUMMARY
+............................................
+
+Name : HADIQA MAQSOOD
+Task : PREDICTION USING DECISION TREE ALGORITHM
+Level: Intermediate
+Batch: Semptember-2021
+
+..............................................
+
+1) Import all required libraries.
+
+2) Load the downloaded provided dataset and perform EDA.
+
+3) Result out some Insights of dataset.
+
+4) Clean the dataset (Checking the null values if any exist)
+
+5) Set the "ID" coloumn as Index.
+
+6) Plotting Data for Visual Analysis (EDA)
+(Piechart, pairplot, stripplot, boxplot, jointplot)
+
+7) Shuffle the dataset.
+
+8) Train and Test the dataset.
+
+9) Create the Decision Tree.
+
+10) Classification Report & Confusion Matrix.
+
+11) Test the MODEL on a random test case.
+
+12) Visualization of trained decision tree model.
